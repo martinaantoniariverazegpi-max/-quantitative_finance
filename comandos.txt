@@ -1,0 +1,32 @@
+#=====crear ambiente virtual
+
+# windows
+
+python -m venv .venv 
+
+#==== activar ambiente virtual
+
+# mac os
+#source .venv/bin/activate
+
+
+# ==== instalar librerias
+pip install -r requirements.txt
+
+
+#====PYTHON=====
+#=== GITHUB=====
+
+#==estado de la branch
+git status
+
+#guardar cambios
+git add 
+
+#comentar cambios
+git commit -m "rama actualizada"
+
+#actualizar branch
+git push origin main
+
+

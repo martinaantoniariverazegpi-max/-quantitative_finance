@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+
+
+# numpy algebra linela
+#scipy se ocupa mas para ecnometris

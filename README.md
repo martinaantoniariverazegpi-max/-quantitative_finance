@@ -1,4 +1,4 @@
-# Programación en Finanzas-Evaluacion 2
+# Programación en Finanzas-Evaluación 2
 
 ### Autor
 Martina Rivera
